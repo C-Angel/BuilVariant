@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kotlin</string>
+    <string name="txt_id">ID - CORREO</string>
+    <string name="txt_password">PASSWORD</string>
+    <string name="btn_accesonexus">Sign Up</string>
+    //OTHER PROFILE
+    <string name="txt_other">OTHER PROFILE</string>
+    <string name="btn_otherprofile">LOGIN</string>
+    <string name="txt_idprofile">ID</string>
+    <string name="txt_passwordprofile">PASSWORD</string>
+
+
+</resources>
